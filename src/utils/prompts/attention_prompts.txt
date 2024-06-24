@@ -1,0 +1,14 @@
+The answer is in the {part_str} of the search results. Pay more attention to the {part_str} of the research result when answering.
+The answer is in the {part_str} of the search results. Focus primarily on the {part_str} of the search results when answering.
+The answer is in the {part_str} of the search results. Consider mainly the details in the {part_str} of the search results.
+The answer is in the {part_str} of the search results. Prioritize information from the {part_str} of the search results for your response.
+The answer is in the {part_str} of the search results. Concentrate on the insights provided in the {part_str} of the search results.
+The answer is in the {part_str} of the search results. Direct your attention to the {part_str} of the search results before responding.
+The answer is in the {part_str} of the search results. Highlight the key points from the {part_str} of the search results in your answer.
+The answer is in the {part_str} of the search results. Base your answer predominantly on the {part_str} of the search results.
+The answer is in the {part_str} of the search results. Emphasize the content in the {part_str} of the search results during your response.
+The answer is in the {part_str} of the search results. Use the information from the {part_str} of the search results as the main reference.
+The answer is in the {part_str} of the search results. Rely mostly on the details in the {part_str} of the search results for your explanation.
+The answer should be based on the {part_str} of the search results.
+The answer is primarily based on the {part_str} of the search results.
+The answer is in the {part_str} of the search results.

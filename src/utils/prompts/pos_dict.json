@@ -1,0 +1,11 @@
+{
+    "best": "beginning|midsection|tail",
+    "hmt": "head|middle|tail",
+    "bce": "beginning|center|end",
+    "fcr": "front|core|rear",
+    "tmb": "top|midsection|bottom",
+    "lit": "lead|intermediate|trail",
+    "bmt": "beginning|midsection|tail",
+    "9_doc_token": "_2|_5|_8",
+    "doc_i": "_1.|_2.|_3."
+}
